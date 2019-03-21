@@ -81,8 +81,3 @@ deploy:
   type: git
   repository: git@github.com:winteriscome/winteriscome.github.io.git
   branch: master
-
-backup:
-    type: git
-    repository:
-       github: git@github.com:winteriscome/winteriscome.github.io.git,blog
